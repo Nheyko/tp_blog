@@ -1,0 +1,11 @@
+{
+    "name": "thibaut/blog",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    }
+}
